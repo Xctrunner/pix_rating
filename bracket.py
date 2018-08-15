@@ -2,7 +2,7 @@ import cv2, os, math, random
 from collections import deque
 import argparse
 
-TARGET_PIXEL_AREA = 220000.0
+TARGET_PIXEL_AREA = 260000.0
 
 
 # TODO need to get new size based on bigger of the two
